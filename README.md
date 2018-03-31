@@ -32,9 +32,9 @@ you don't need any special machine for run cron job.
 
 #### Examples
 
-1. [default cron client](blob/master/example_test.go#L14)
-2. [without default cron client](blob/master/example_test.go#L30)
-3. [mock multi processor](blob/master/example_test.go#L44)
+1. [default cron client](example_test.go#L14)
+2. [without default cron client](example_test.go#L30)
+3. [mock multi processor](example_test.go#L44)
 
 #### Deps & Thanks
 
