@@ -32,13 +32,13 @@ you don't need any special machine for run cron job.
 
 #### Examples
 
-1. [default cron client]()
-2. [without default cron client]()
-3. [mock multi processor]()
+1. [default cron client](blob/master/example_test.go#L14)
+2. [without default cron client](blob/master/example_test.go#L30)
+3. [mock multi processor](blob/master/example_test.go#L44)
 
 #### Deps & Thanks
 
-[RedSync - Distributed mutual exclusion lock ](https://github.com/go-redsync/redsync)
-[Cron - cron lib](https://github.com/robfig/cron)
+* [RedSync - Distributed mutual exclusion lock ](https://github.com/go-redsync/redsync)
+* [Cron - cron lib](https://github.com/robfig/cron)
 
 
